@@ -1,0 +1,22 @@
+
+body {
+background: url("pexels-athena.jpg-2914550.jpg");
+}
+.container {
+}
+h1 {
+color: red;
+text-shadow: 1px 0px black;
+}
+h3 {
+color: red;
+font-weight: italic
+}
+p {
+color: black
+font-weight: bold;
+}
+footer {
+background-color: black;
+color: white
+}
